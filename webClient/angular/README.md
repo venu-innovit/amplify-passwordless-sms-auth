@@ -23,7 +23,7 @@ The web app client should be running at http://localhost:4200 allowing you to re
 
 Once you have it running locally and tested, you can deploy this  directly to AWS Amplify Console:
 
-[![amplifybutton](https://oneclick.amplifyapp.com/button.svg)](https://console.aws.amazon.com/amplify/home#/deploy?repo=https://github.com/mobilequickie/amplify-passwordless-sms-auth)
+[![amplifybutton](https://oneclick.amplifyapp.com/button.svg)](https://console.aws.amazon.com/amplify/home#/deploy?repo=https://github.com/venu-innovit/amplify-passwordless-sms-auth)
 
 ![Screenshot](one-click-console.gif)
 
